@@ -21,7 +21,7 @@ interface Petal {
   rotate: number;
 }
 
-const NOMBRE = "Patricia Fernández";
+const NOMBRE = "Patricia Justiniano";
 const FECHA = "21 de Septiembre";
 const DEDICATORIA =
   "Como las flores amarillas, que sin pedir nada a cambio le regalan color al día, quiero que sepas que en este 21 de septiembre te agradezco tanto por iluminar mi mundo con tu alegría, tu ternura y tu cariño. Pase lo que pase, siempre puedes contar conmigo, porque contigo quiero seguir celebrando la vida y cada pequeño momento hermoso.";
